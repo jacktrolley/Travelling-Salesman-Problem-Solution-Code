@@ -1,6 +1,7 @@
 # Travelling-Salesman-Problem-Solution-Code
-This code is used to find the 'polynomial time' solution to the Travelling Salesman Problem
+This code is used to find the 'polynomial time' solution to the Travelling Salesman Problem for 'Complete' graphs.
 
+Please Note : If for an example graph, if there is no edge between two vertices, then assign a weight to the imaginary edge connecting the two vertices. The weight can be equal to the sum of the weights of all the real edges present in the example  graph. This imaginary edge with a weight is necessary because of the condition that this program works on 'Complete' graphs only.  A 'Complete' graph is the exactly the same mathematical object used in Graph Theory. Also please note that no edge in the example graph should have a weight of 0.
 
 
 IMPORTANT DETAILS ABOUT PROGRAM
