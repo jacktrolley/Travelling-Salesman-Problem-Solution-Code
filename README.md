@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem-Solution-Code
-This code is used to find the solution to the Travelling Salesman Problem
+This code is used to find the 'polynomial time' solution to the Travelling Salesman Problem
 
 
 
