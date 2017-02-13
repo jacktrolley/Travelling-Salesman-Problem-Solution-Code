@@ -4,7 +4,7 @@ This 'PHP' code is used to find the 'polynomial time' solution to the Travelling
 Please Note : If for an example graph, if there is no edge between two vertices, then assign a weight to the imaginary edge connecting the two vertices. The weight can be equal to the sum of the weights of all the real edges present in the example  graph. This imaginary edge with a weight is necessary because of the condition that this program works on 'Complete' graphs only.  A 'Complete' graph is the exactly the same mathematical object used in Graph Theory. Also please note that no edge in the example graph should have a weight of 0.
 
 
-I have uploaded the MS Word file "TSP_Latest_M5_2016.docx".  The file describes the method and the algorithm for the program. The algorithm is a simple algorithm.  For an easier understanding of the algorithm , the algorithm has been explained in terms of the example given in the 'TSP_Latest_M5_2016.docx' document.  The file 'TSP_Latest_M5_2016.docx' consists of 3 sections. The 3 sections are as follows :- 
+I have uploaded the text file "TSP_Latest_M5_2016.txt".  The file describes the method and the algorithm for the program. The algorithm is a simple algorithm.  For an easier understanding of the algorithm , the algorithm has been explained in terms of the example given in the 'TSP_Latest_M5_2016.txt' document.  The file 'TSP_Latest_M5_2016.txt' consists of 3 sections. The 3 sections are as follows :- 
 a) 'NOTATION SECTION' 
 b) 'ALGORITHM SECTION' 
 c) 'EXAMPLE SECTION'
@@ -16,7 +16,7 @@ I am getting all the correct answers for all the travelling salesman problem exa
 1) "Elements of Discrete Mathematics " by C.L.Liu ( Second Edition ) (ISBN : 0-07-100544-7).
 2) "A First Look at Graph Theory" by John Clark and Derek Allan Holton (ISBN : 81-7023-463-8 ).
 
-Search for 'tsp data for the Travelling Salesman Problem' in Google and the first result link that comes will give a site which contains a collection of travelling salesman problem datasets maintained by 'Gerhard Reinelt'. The website contains bigger data problems which can be used as input data when running this program.
+Search for 'Tsp data for the Travelling Salesman Problem' in Google search and the first result link that comes will give a site which contains a collection of travelling salesman problem datasets maintained by 'Gerhard Reinelt'. The website contains bigger data problems which can be used as input data when running this program.
 
 
 
