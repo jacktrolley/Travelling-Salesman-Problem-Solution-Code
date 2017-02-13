@@ -23,9 +23,9 @@ Search for 'Tsp data for the Travelling Salesman Problem' in Google search and t
 IMPORTANT DETAILS ABOUT PROGRAM
 
 
-	'tsp_1.php' , 'tsp_2.php' , 'tsp_3.php' and 'tsp_4.php'  are the php files.  The order of execution of the php files is 'tsp_1.php' , 'tsp_2.php' , 'tsp_3.php' and then 'tsp_4.php'.  The execution of the files can be started from 'tsp_1.php'.
+	'tsp_1.php' , 'tsp_2.php' , 'tsp_3.php' and 'tsp_4.php'  are the four php files needed for executing the program.  The order of execution of the php files is 'tsp_1.php' , 'tsp_2.php' , 'tsp_3.php' and then 'tsp_4.php'.  The execution of the files can be started from 'tsp_1.php'.
 
-	The 'XAMPP' Web Server is used for executing the php files.  All the four 'php' files can be put in 'C:\xampp\htdocs' folder. 
+	The 'XAMPP' Web Server is used for executing the php files.  All the four 'php' files ( ie:- 'tsp_1.php' , 'tsp_2.php' , 'tsp_3.php' and 'tsp_4.php' ) can be put in 'C:\xampp\htdocs' folder. 
 		
 	Some important properties of the program are given below.
 
