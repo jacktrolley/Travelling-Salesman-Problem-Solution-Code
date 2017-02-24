@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem-Solution-Code
-This 'PHP' code is used to find the 'polynomial time' solution to the Travelling Salesman Problem for 'Complete' graphs.
+This PHP code is used to find the 'polynomial time' solution to the Travelling Salesman Problem for 'Complete' graphs.
 
 The input data that the user inputs during the execution of the program is only the name of each vertex and the weight of each edge present in the graph.
 
